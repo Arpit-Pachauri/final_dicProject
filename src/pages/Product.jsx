@@ -114,27 +114,14 @@ const Product = () => {
       <Navbar />
       <Wrapper>
         <ImgContainer>
-          <Image src="https://static.zara.net/photos///2022/I/0/1/p/7521/245/305/2/w/750/7521245305_1_1_1.jpg?ts=1658824728952" />
+          <Image src="https://miro.medium.com/max/566/1*j3xVt5zsYuAB19-QATkk_w.png" />
         </ImgContainer>
         <InfoContainer>
-          <Title>PRINTED BLOUSE WITH EMBROIDERY</Title>
+          <Title>URL SHORTNER</Title>
           <Desc>
-          We work alongside our suppliers, workers, unions and international bodies to develop a supply chain that respects and promotes human rights, contributing to the United Nations Sustainable Development Goals. 
-Additionally, thanks to an ongoing collaboration with our suppliers, we have developed a tracking programme that allows us to 
+          Get our api for shortening the url
           </Desc>
-          <Price>RS 1999</Price>
-          <FilterContainer>
-            <Filter>
-              <FilterTitle>Size</FilterTitle>
-              <FilterSize>
-                <FilterSizeOption>XS</FilterSizeOption>
-                <FilterSizeOption>S</FilterSizeOption>
-                <FilterSizeOption>M</FilterSizeOption>
-                <FilterSizeOption>L</FilterSizeOption>
-                <FilterSizeOption>XL</FilterSizeOption>
-              </FilterSize>
-            </Filter>
-          </FilterContainer>
+          <Price>RS 999</Price>
           <AddContainer>
             <AmountContainer>
               <Remove />

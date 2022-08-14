@@ -5,10 +5,10 @@ const Container = styled.div`
   width: 100vw;
   height: 100vh;
   background: linear-gradient(
-      rgba(255, 255, 255, 0.5),
-      rgba(255, 255, 255, 0.5)
+      rgba(255, 255, 255, 0.1),
+      rgba(255, 255, 255, 0.1)
     ),
-    url("https://images.pexels.com/photos/833052/pexels-photo-833052.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1")
+    url("https://image.shutterstock.com/image-vector/man-key-near-computer-account-260nw-1499141258.jpg")
       center;
   background-size: cover;
   display: flex;
@@ -43,7 +43,7 @@ const Button = styled.button`
   width: 40%;
   border: none;
   padding: 15px 20px;
-  background-color: teal;
+  background-color: purple;
   color: white;
   cursor: pointer;
   margin-bottom: 10px;

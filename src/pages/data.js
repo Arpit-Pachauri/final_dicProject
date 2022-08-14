@@ -1,24 +1,17 @@
 export const sliderItems = [
     {
       id: 1,
-      img: "https://static.zara.net/photos///2022/I/0/2/p/0495/419/615/2/w/445/0495419615_2_1_1.jpg?ts=1659024106658",
-      title: "FASHIONATION SALE",
-      desc: "ADD FUNKINESS TO BASICS WITH THE UNIQUE DESIGNS FROM TEAMSPIRIT. LOOK SMART IN STRIPES, WEARING A TOP WITH MESH SLEEVES. TO STAND OUT IN A CROWD, PICK A BOLDER STYLE SUCH AS A HOODED TOP WITH DROP SLEEVES OR A TYPOGRAPHIC PRINT TOP WITH RAGLAN SLEEVES.",
+      img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpx3TrkKz4BaAMWgwr4O0_LZJEiMt7DALMg&usqp=CAU/",
+      title: "URL SHORTNER",
+      desc: "Shortens your url",
       bg: "f5fafd",
     },
     {
       id: 2,
-      img: "https://static.zara.net/photos///2022/I/0/2/p/6224/304/620/2/w/445/6224304620_2_1_1.jpg?ts=1657191337977",
-      title: "AUTUMN COLLECTION",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
+      img: "https://plugins-media.makeupar.com/smb/blog/post/2022-03-18/03f83d50-71a3-4c08-87b9-9231fa87e107.jpg",
+      title: "Background Removal",
+      desc: "Remove Background from photos",
       bg: "fcf1ed",
-    },
-    {
-      id: 3,
-      img: "https://static.zara.net/photos///2022/I/0/2/p/5644/302/800/2/w/445/5644302800_2_1_1.jpg?ts=1657097465383",
-      title: "LOUNGEWEAR LOVE",
-      desc: "DON'T COMPROMISE ON STYLE! GET FLAT 30% OFF FOR NEW ARRIVALS.",
-      bg: "fbf0f4",
     },
   ];
 

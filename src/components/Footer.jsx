@@ -83,9 +83,9 @@ import {
     return (
       <Container>
         <Left>
-          <Logo>CLOTHING PAGE</Logo>
+          <Logo>WEB FLOW</Logo>
           <Desc>
-          The content of this site is copyright-protected and is the property of H & M Hennes & Mauritz AB. H&M’s business concept is to offer fashion and quality at the best price in a
+          The content of this site is copyright-protected and is the property of Arpit business concept is to offer quality Website designing at the best price in the market
           </Desc>
           <SocialContainer>
             <SocialIcon color="3B5999">
@@ -107,11 +107,10 @@ import {
           <List>
             <ListItem>Home</ListItem>
             <ListItem>Cart</ListItem>
-            <ListItem>Man Fashion</ListItem>
-            <ListItem>Woman Fashion</ListItem>
+            <ListItem>Carrer Portal</ListItem>
             <ListItem>Accessories</ListItem>
             <ListItem>My Account</ListItem>
-            <ListItem>Order Tracking</ListItem>
+            <ListItem>Product Tracking</ListItem>
           </List>
         </Center>
         <Right>

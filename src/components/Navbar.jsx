@@ -80,17 +80,17 @@ const Navbar = () => {
     <Container>
       <Wrapper>
         <Left>
-          <Language>EN</Language>
+          <Language>English</Language>
           <SearchContainer>
             <Input placeholder="Search" />
             <Search style={{ color: "gray", fontSize: 16 }} />
           </SearchContainer>
         </Left>
         <Center>
-          <Logo>CLOTHING STORE</Logo>
+          <Logo>WEBFLOW</Logo>
         </Center>
         <Right>
-          {/* <Router>
+          {/* <Router>   
           <div>
           
           </div>
@@ -104,15 +104,8 @@ const Navbar = () => {
           <MenuItem>REGISTER</MenuItem> */}
           <MenuItem>  <Link to="/" style={{textDecoration:"none",color:"black"}}>HOME</Link></MenuItem>
           <MenuItem>  <Link to="/product" style={{textDecoration:"none",color:"black"}}>PRODUCTS</Link></MenuItem>
-          <MenuItem>  <Link to="/login" style={{textDecoration:"none",color:"black"}}>LOGIN IN</Link></MenuItem>
-          <MenuItem>  <Link to="/register" style={{textDecoration:"none",color:"black"}}>REGISTER</Link>  </MenuItem> 
-          <MenuItem>
-          <Link to="/cart" style={{textDecoration:"none",color:"black"}}>
-            <Badge badgeContent={4} color="primary">
-              <ShoppingCartOutlined />
-            </Badge>
-            </Link>
-          </MenuItem>
+          <MenuItem>  <Link to="/login" style={{textDecoration:"none",color:"black"}}>LOGIN</Link></MenuItem>
+          <MenuItem>  <Link to="/register" style={{textDecoration:"none",color:"black"}}>REGISTER</Link>  </MenuItem>
         </Right>
       </Wrapper>
     </Container>

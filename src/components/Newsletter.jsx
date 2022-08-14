@@ -2,7 +2,6 @@ import { Send } from "@material-ui/icons";
 import styled from "styled-components";
 const Container = styled.div`
   height: 60vh;
-  background-color:#A0DAA9;
   display: flex;
   align-items: center;
   justify-content: center;
